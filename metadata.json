@@ -1,0 +1,5 @@
+{
+  "name": "MedGate Mobile",
+  "description": "Application mobile de scanner d'identité et gestion d'entrées hospitalières.",
+  "requestFramePermissions": ["camera"]
+}
